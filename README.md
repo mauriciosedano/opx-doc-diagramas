@@ -26,4 +26,4 @@
 9. Diagrama de las clases
 
 
-**NOTA**: estos diágramas únicos hacen parte los entregables denominados *Documento de visión*, el *Modelo de despligue*, el *Modelo de implmentación* y el *Manual técnico* según contrato.
+**NOTA**: estos diágramas únicos hacen parte los entregables denominados *Documento de visión*,  *Modelo de despligue*,  *Modelo de implmentación* y *Manual técnico* según contrato.
