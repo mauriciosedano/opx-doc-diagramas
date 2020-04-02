@@ -24,3 +24,6 @@
 7. Diagrama de servicios expuestos por el sistema.
 8. Modelo entidad relación del sistema
 9. Diagrama de las clases
+
+
+**NOTA**: estos diágramas únicos hacen parte los entregables denominados *Documento de visión*, el *Modelo de despligue*, el *Modelo de implmentación* y el *Manual técnico* según contrato.
