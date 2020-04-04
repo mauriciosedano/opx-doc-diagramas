@@ -4,7 +4,7 @@
 
 **Creado por**: Mauricio Sedano 02/ABR/2020  16:14
 
-**Alimentado por**: Juan Camilo Salazar
+**Alimentado por**: Juan Camilo Salazar 04/ABR/2020 17:31
 
 **Objetivo**: Acelerar la comprensión del diseño técnico y facilitar la vinculación de una comunidad de desarrolladores de software opensource
 
