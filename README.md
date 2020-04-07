@@ -28,5 +28,5 @@
 
 **NOTA**: estos diágramas únicos hacen parte los entregables denominados *Documento de visión*,  *Modelo de despligue*,  *Modelo de implmentación* y *Manual técnico* según contrato.
 
-El documento Diagramas OPC_OIM.xml es exportado de https://app.diagrams.net/ que es correspondiente al draw.io
+El documento Diagramas OPC_OIM.xml es exportado de https://app.diagrams.net/ que corresponde al formato **draw.io**
 
